@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.ospn.OsnIMServer
+Class-Path: com/ospn/OsnIMServer
+
